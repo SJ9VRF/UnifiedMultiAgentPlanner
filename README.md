@@ -35,7 +35,7 @@ jupyter notebook demo.ipynb
 
 ## Running Tests
 Ensure that everything is set up correctly by running:
-'''bash
+```bash
 pytest
 ```
 
