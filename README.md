@@ -1,7 +1,7 @@
 # Unified MultiAgent Planner
 
 ## Description
-The UnifiedMultiAgentPlanner is a Python project that demonstrates the setup, modeling, and solving of multi-agent planning problems using the Unified Planning library. This project includes practical examples of defining agents, actions, and environments, and shows how to solve these planning problems effectively.
+The UnifiedMultiAgentPlanner is a Python project that demonstrates the setup, modeling, and solving of multi-agent planning problems using the Unified Planning library. This project includes practical examples of defining agents, actions, and environments, and shows how to solve these planning problems more effectively.
 
 
 ![Screenshot_2024-08-28_at_6 17 16_AM-removebg-preview](https://github.com/user-attachments/assets/f0c2caeb-d0bd-48f0-985b-4d782f53dd56)
